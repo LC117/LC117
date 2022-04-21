@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there 👋
+
+Although I am passionate about almost all topics in computer science, I am currently especially interested in:
+
+⚡ Computer Vision
+
+⚡ Deep Learning
+
+⚡ Databases 
+
+⚡ MLOps
 
 <!--
 **LC117/LC117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
